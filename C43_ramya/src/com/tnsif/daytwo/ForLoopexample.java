@@ -1,4 +1,4 @@
-package com.tnsif.daytwo1;
+package com.tnsif.daytwo;
 
 public class ForLoopexample {
 

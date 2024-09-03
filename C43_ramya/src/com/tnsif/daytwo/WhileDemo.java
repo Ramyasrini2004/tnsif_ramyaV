@@ -1,4 +1,4 @@
-package com.tnsif.daytwo3;
+package com.tnsif.daytwo;
 
 public class WhileDemo {
 	public static void main(String[] args) 
